@@ -1,0 +1,19 @@
+* {
+  color: #333;
+}
+
+.content {
+  margin: 40px 12px 0 12px;
+}
+
+.content div {
+  margin: 10px 0 0 0;
+}
+
+.description {
+  font-size: 80%;
+}
+
+.error {
+  color: #F00;
+}
